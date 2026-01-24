@@ -1,0 +1,21 @@
+pip install cryptography
+pip install fake_useragent
+pip install fake_headers
+pip install fake-headers
+pip install cfscrape
+pip install cloudscraper
+pip install requests
+pip install ipaddress
+pip install discord-webhook
+pip install PySocks
+
+
+py -m pip install requests urllib3==1.26.6 PySocks --user
+py -m pip install cloudscraper urllib3==1.26.6 PySocks --user
+py -m pip install cfscrape urllib3==1.26.6 PySocks --user
+py -m pip install fake_headers urllib3==1.26.6 PySocks --user
+py -m pip install fake_useragent urllib3==1.26.6 PySocks --user
+py -m pip install cryptography urllib3==1.26.6 PySocks --user
+
+
+  pip install urllib3==1.26.6 requests==2.28.2
